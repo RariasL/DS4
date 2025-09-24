@@ -1,0 +1,5 @@
+C:\Users\rodol\source\repos\ds4\laboratorio5\laboratorio5\obj\Debug\net8.0\laboratorio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\source\repos\ds4\laboratorio5\laboratorio5\obj\Debug\net8.0\laboratorio5.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\ds4\laboratorio5\laboratorio5\obj\Debug\net8.0\laboratorio5.AssemblyInfo.cs
+C:\Users\rodol\source\repos\ds4\laboratorio5\laboratorio5\obj\Debug\net8.0\laboratorio5.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\ds4\laboratorio5\laboratorio5\obj\Debug\net8.0\laboratorio5.sourcelink.json

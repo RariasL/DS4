@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="laboratorio5.1/laboratorio5.1.csproj" />
+  <Project Path="laboratorio5.2/laboratorio5.2.csproj" />
+  <Project Path="laboratorio5.4/laboratorio5.4.csproj" />
+  <Project Path="laboratorio5.5/laboratorio5.5.csproj" />
+  <Project Path="laboratorio5.6/laboratorio5.6.csproj" />
+  <Project Path="laboratorio5/laboratorio5.csproj" />
+</Solution>
