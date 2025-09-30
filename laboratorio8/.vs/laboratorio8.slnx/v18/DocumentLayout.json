@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF6656F-C411-4F37-9A2F-7CF9EB84A54E}|laboratorio8.9\\laboratorio8.9.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF6656F-C411-4F37-9A2F-7CF9EB84A54E}|laboratorio8.9\\laboratorio8.9.csproj|solutionrelative:laboratorio8.9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D34F501-A403-439B-B5BF-74D01C03CAF3}|laboratorio8.8\\laboratorio8.8.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D34F501-A403-439B-B5BF-74D01C03CAF3}|laboratorio8.8\\laboratorio8.8.csproj|solutionrelative:laboratorio8.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7D9523-2154-4D4D-9F62-2D4CA99E32A3}|laboratorio8.7\\laboratorio8.7.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7D9523-2154-4D4D-9F62-2D4CA99E32A3}|laboratorio8.7\\laboratorio8.7.csproj|solutionrelative:laboratorio8.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9240BEEA-BF6D-498D-888A-81442D3B619F}|laboratorio8.6\\laboratorio8.6.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9240BEEA-BF6D-498D-888A-81442D3B619F}|laboratorio8.6\\laboratorio8.6.csproj|solutionrelative:laboratorio8.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FE75B5-3501-4024-BB87-969408399B35}|laboratorio8.5\\laboratorio8.5.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FE75B5-3501-4024-BB87-969408399B35}|laboratorio8.5\\laboratorio8.5.csproj|solutionrelative:laboratorio8.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACF88DD-0856-4924-AED8-D72E514282F8}|laboratorio8.4\\laboratorio8.4.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACF88DD-0856-4924-AED8-D72E514282F8}|laboratorio8.4\\laboratorio8.4.csproj|solutionrelative:laboratorio8.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E134DF-FE27-412E-9087-DCE43B4099D5}|laboratorio8.3\\laboratorio8.3.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E134DF-FE27-412E-9087-DCE43B4099D5}|laboratorio8.3\\laboratorio8.3.csproj|solutionrelative:laboratorio8.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FE0D53-2F90-4D98-ADCA-CEF4C1E5F626}|laboratorio8.2\\laboratorio8.2.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FE0D53-2F90-4D98-ADCA-CEF4C1E5F626}|laboratorio8.2\\laboratorio8.2.csproj|solutionrelative:laboratorio8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C173C4-A1F5-4DB5-B81A-E56E33739880}|laboratorio8.1\\laboratorio8.1.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C173C4-A1F5-4DB5-B81A-E56E33739880}|laboratorio8.1\\laboratorio8.1.csproj|solutionrelative:laboratorio8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A243504-06F7-4AAF-A01D-84D33779F8C7}|laboratorio8\\laboratorio8.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A243504-06F7-4AAF-A01D-84D33779F8C7}|laboratorio8\\laboratorio8.csproj|solutionrelative:laboratorio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.9\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.9\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.9\\Program.cs",
+              "RelativeToolTip": "laboratorio8.9\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA/wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:45:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.8\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.8\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.8\\Program.cs",
+              "RelativeToolTip": "laboratorio8.8\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:44:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.7\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.7\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.7\\Program.cs",
+              "RelativeToolTip": "laboratorio8.7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:44:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.6\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.6\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.6\\Program.cs",
+              "RelativeToolTip": "laboratorio8.6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:43:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.5\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.5\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.5\\Program.cs",
+              "RelativeToolTip": "laboratorio8.5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:43:10.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.4\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.4\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.4\\Program.cs",
+              "RelativeToolTip": "laboratorio8.4\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvwwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:40:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.3\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.3\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.3\\Program.cs",
+              "RelativeToolTip": "laboratorio8.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:40:00.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.2\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.2\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.2\\Program.cs",
+              "RelativeToolTip": "laboratorio8.2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:37:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.1\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8.1\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8.1\\Program.cs",
+              "RelativeToolTip": "laboratorio8.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:37:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio8\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio8\\laboratorio8\\Program.cs",
+              "RelativeToolTip": "laboratorio8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:34:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
