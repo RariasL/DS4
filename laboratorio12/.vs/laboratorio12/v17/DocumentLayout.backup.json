@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|solutionrelative:laboratorio12.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|solutionrelative:laboratorio12.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|solutionrelative:laboratorio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|solutionrelative:laboratorio12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|solutionrelative:laboratorio12.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|solutionrelative:laboratorio12.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|solutionrelative:laboratorio12\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C717A0BB-E604-4CBE-912D-073815901DF3}|laboratorio12\\laboratorio12.csproj|solutionrelative:laboratorio12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA94FA8-9F64-4E6E-8249-D3A23CCE7039}|laboratorio12.2\\laboratorio12.2.csproj|solutionrelative:laboratorio12.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|solutionrelative:laboratorio12.3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|c:\\users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7587E299-5490-40CB-9521-C426DEF4AC07}|laboratorio12.3\\laboratorio12.3.csproj|solutionrelative:laboratorio12.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio12.3\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Program.cs",
+              "RelativeToolTip": "laboratorio12.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:09:31.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio12.2\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Program.cs",
+              "RelativeToolTip": "laboratorio12.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:09:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Program.cs",
+              "RelativeDocumentMoniker": "laboratorio12\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Program.cs",
+              "RelativeToolTip": "laboratorio12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:08:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "laboratorio12\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.Designer.cs",
+              "RelativeToolTip": "laboratorio12\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:01:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "laboratorio12.3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.Designer.cs",
+              "RelativeToolTip": "laboratorio12.3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:55:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.cs",
+              "RelativeToolTip": "laboratorio12.3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:48:15.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "laboratorio12.3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:44:22.1Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.cs",
+              "RelativeToolTip": "laboratorio12\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:42:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Form1.cs",
+              "RelativeToolTip": "laboratorio12.2\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:36:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12.2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "laboratorio12.2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:36:10.636Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio12\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodol\\source\\repos\\ds4\\laboratorio12\\laboratorio12\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "laboratorio12\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:30:48.553Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
