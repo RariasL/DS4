@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58427A8-BDA8-46D0-B6DE-321B26B06CC7}|Laboratorio16-1\\Laboratorio16-1.csproj|c:\\users\\lenovo\\source\\repos\\ds4\\laboratorio16\\laboratorio16-1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58427A8-BDA8-46D0-B6DE-321B26B06CC7}|Laboratorio16-1\\Laboratorio16-1.csproj|solutionrelative:laboratorio16-1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58427A8-BDA8-46D0-B6DE-321B26B06CC7}|Laboratorio16-1\\Laboratorio16-1.csproj|C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\laboratorio16-1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E58427A8-BDA8-46D0-B6DE-321B26B06CC7}|Laboratorio16-1\\Laboratorio16-1.csproj|solutionrelative:laboratorio16-1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\Laboratorio16-1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio16-1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\Laboratorio16-1\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio16-1\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T00:53:08.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\Laboratorio16-1\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio16-1\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ds4\\Laboratorio16\\Laboratorio16-1\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Laboratorio16-1\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAALsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:53:34.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
