@@ -1,0 +1,154 @@
+﻿/* Body principal */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+/* Barra de navegación */
+
+.barra {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    align-items: center;
+    background-color: #808080;
+    padding: 18px;
+    width: 100%;
+    box-sizing: border-box;
+}
+/* Logo */
+
+.inicio {
+    grid-column: 2 / 3;
+    background-color: #ffd800;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+/* Botón Menu */
+
+.boton {
+    grid-column: 3 / 4;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+/* Buscador */
+
+.busqueda {
+    grid-column: 5 / span 7;
+}
+
+.input-buscar {
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+.fav {
+    grid-column: 9/ 11;
+    background-color: orangered;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.btn-buscar {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btn-buscar:hover {
+        background-color: #45a049;
+    }
+/* Contenedor principal de películas */
+
+.contenido {
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+/* Cada sección de película */
+
+.pelicula {
+    display: flex;
+    gap: 20px;
+    background-color: rgba(50,50,50,0.8);
+    padding: 15px;
+    border-radius: 10px;
+}
+/* Detalles de la película */
+
+.detalle {
+    color: white;
+}
+/* Imagen del poster */
+
+.poster img, .poster asp\\:Image {
+    width: 200px;
+    border-radius: 5px;
+}
+
+/* Contenedor del carrusel */
+.galeria {
+    display: flex; /* Items en línea */
+    gap: 20px; /* Espacio entre películas */
+    overflow-x: auto; /* Scroll horizontal */
+    padding: 20px;
+    scroll-behavior: smooth; /* Desplazamiento suave */
+}
+
+    /* Oculta la barra de scroll en Webkit (Chrome, Safari) */
+    .galeria::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    .galeria::-webkit-scrollbar-thumb {
+        background: #4CAF50;
+        border-radius: 4px;
+    }
+
+    /* Cada película */
+    .galeria .pelicula {
+        flex: 0 0 auto; /* Evita que se encoja */
+        text-align: center;
+        width: 150px;
+        background-color: rgba(50,50,50,0.8);
+        padding: 10px;
+        border-radius: 5px;
+        transition: transform 0.3s;
+    }
+
+        .galeria .pelicula:hover {
+            transform: scale(1.05);
+        }
+
+        .galeria .pelicula img {
+            width: 150px;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        }
+
+        .galeria .pelicula p {
+            margin-top: 5px;
+            font-size: 14px;
+            color: #fff;
+            text-align: center;
+        }
